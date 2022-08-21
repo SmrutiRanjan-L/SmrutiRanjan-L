@@ -26,6 +26,8 @@
 
 <h3 align="left">My GitHub stats:</h3>
 
+<p align="center"><img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=SmrutiRanjan-L&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
+
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=SmrutiRanjan-L&theme=highcontrast&show_icons=true" alt="SmrutiRanjan-L" />
 
 <p align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=SmrutiRanjan-L&theme=highcontrast&hide_border=false" alt ="SmrutiRanjan-L" />
