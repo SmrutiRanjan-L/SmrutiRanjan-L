@@ -36,3 +36,10 @@
   
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SmrutiRanjan-L&layout=compact&theme=vision-friendly-dark" />
   
+#### Top Repositories
+
+
+
+<a href="https://github.com/SmrutiRanjan-L/Portfolio">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SmrutiRanjan-L&repo=Portfolio&theme=highcontrast" />
+</a>
