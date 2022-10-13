@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on frontend projects.
 
-- ⚡ Know about my experiences [Here](https://drive.google.com/file/d/1YJntbrvVRlXFYfHzPlNy83e-1Pu7CI0w/view)
+- ⚡ Know about my experiences [Here](https://drive.google.com/file/d/1MEjYK4VNdg5EBtMu57ISkgt2XebJvnIw/view?usp=sharing)
 
 - 💬 Ask me about **anything on tech.**
 
