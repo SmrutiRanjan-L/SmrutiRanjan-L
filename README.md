@@ -1,4 +1,4 @@
-[![@smrutiranjanl12's Holopin board](https://holopin.me/smrutiranjanl12)](https://holopin.io/@smrutiranjanl12)
+
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
@@ -23,14 +23,20 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/Smrutilenka4" target="blank"><img align="center" src="https://github.com/kaal-coder/kaal-coder/blob/main/twitter.png" alt="_k_a_a_l" height="40" width="40" /></a>
-<a href="https://www.linkedin.com/in/smruti-ranjan-lenka" target="blank"><img align="center" src="https://github.com/kaal-coder/kaal-coder/blob/main/linkedin.png" alt="smruti-ranjan-lenka" height="40" width="40" /></a>
-<a href="https://www.facebook.com/smruti.omm.9" target="blank"><img align="center" src="https://github.com/kaal-coder/kaal-coder/blob/main/facebook.png" alt="smruti.omm.9" height="40" width="40" /></a>
-<a href="https://www.instagram.com/smruti_rl.js/" target="blank"><img align="center" src="https://github.com/kaal-coder/kaal-coder/blob/main/instagram.png" alt="smruti_rl.js" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/smruti-ranjan-lenka/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="smruti_rl.js" height="40" width="40" /></a>
+<a href="https://twitter.com/Smrutiomm4" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="smruti_rl.js" height="40" width="40" /></a>
+<a href="https://www.instagram.com/smruti_rl.js/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="smruti_rl.js" height="40" width="40" /></a>
+<a href="https://www.facebook.com/smruti.omm.9" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" alt="smruti_rl.js" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>  </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="left"><a href="https://devdocs.io/javascript/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/javascript/javascript-vertical.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>  </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.canva.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="canva" width="40" height="40"/> </a> 
+
+<h3 align="left">Coding Profile:</h3>
+
+ <a href="https://auth.geeksforgeeks.org/user/smrutiomm4/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/256/GeeksforGeeks.png" alt="smruti_rl.js" width="40" height="40"/> </a> <a href="https://www.codechef.com/users/frost_2304" target="_blank" rel="noreferrer"> <img src="https://upload.vectorlogo.zone/logos/codechef/images/c0290608-3c6b-406c-90ef-86e9200f383a.svg" alt="kaalcoder" width="40" height="40"/> </a> <a href="https://www.hackerrank.com/SmrutiRanjan_L?hr_r=1" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-512/hackerrank-3521478-2944922.png?f=avif&w=256" alt="kaalcoder" width="40" height="40"/> </a>
+
+</p>
 
 <h3 align="left">My GitHub stats 🔥 :</h3>
 
