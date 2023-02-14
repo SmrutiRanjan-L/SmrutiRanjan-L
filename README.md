@@ -24,7 +24,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/smruti-ranjan-lenka/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="smruti_rl.js" height="40" width="40" /></a>
-<a href="https://twitter.com/Smrutiomm4" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="smruti_rl.js" height="40" width="40" /></a>
+<a href="https://twitter.com/Smrutilenka4" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="smruti_rl.js" height="40" width="40" /></a>
 <a href="https://www.instagram.com/smruti_rl.js/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="smruti_rl.js" height="40" width="40" /></a>
 <a href="https://www.facebook.com/smruti.omm.9" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" alt="smruti_rl.js" height="40" width="40" /></a>
 </p>
